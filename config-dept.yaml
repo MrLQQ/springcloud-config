@@ -39,7 +39,7 @@ info:
   app.name: MrLQQ-springcloud
   company.name: blog.MrLQQ.com
   
-  ---
+ ---
 
 server:
   port: 8001
