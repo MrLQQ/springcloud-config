@@ -1,15 +1,13 @@
-spirng:
+spring:
   profiles:
     active:
 
----
-spirng:
+spring:
   profiles: dev
   application:
     name: springcloud-config-dev
-   
----   
-spirng:
+      
+spring:
   profiles: test
   application:
     name: springcloud-config-test
